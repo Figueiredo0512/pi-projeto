@@ -1,0 +1,15 @@
+Tamanhos e informações da assinatura
+
+
+Fitcard = 500 x 154
+Neo = 600 x 137
+Link = 600 x 139
+Prime = 600 x 205
+Euro = 600 x 141
+Assinaturas
+
+Fonte Euro: EBRIMA / Tamanho: 12,09 / Nome e cargo sem Negrito
+Fonte Fitcard: VERDANA / Tamanho: 8,227 / Nome e Cargo em Negrito
+Fonte Link: TAHOMA / Tamanho: 8,214 / Nome e Cargo em Negrito
+Fonte Prime: VERDANA / Tamanho: 7,864/ Nome e Cargo em Negrito
+Fonte Neo: Gotham Book [Integrado] / Tamanho 12 / Não possui Negrito

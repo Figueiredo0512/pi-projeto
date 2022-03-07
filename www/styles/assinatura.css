@@ -1,0 +1,150 @@
+body {
+    zoom: 0.9
+}
+
+@font-face {
+    font-family: Gotham Book;
+    src: url('../../assets/fonts/gotham-book.otf');
+}
+
+@font-face {
+    font-family: ebima;
+    src: url('../../assets/fonts/ebima.otf');
+}
+
+#escrita_euro {
+    font-weight: normal;
+    color: #622c2d;
+    font-size: 175%;
+    position: relative;
+    left: 436px;
+    top: 80px;
+}
+
+#escrita_fit_vermelho {
+    font-family: Verdana;
+    font-weight: bold;
+    color: #b01c2e;
+    font-size: 22px;
+    position: relative;
+    top: 118px;
+    left: 9px;
+}
+
+#escrita_fit_cinza {
+    font-family: Verdana;
+    font-weight: normal;
+    color: #5e5e60;
+    font-size: 22px;
+    position: relative;
+    top: 40px;
+    left: 228px;
+}
+
+#escrita_link {
+    font-family: Tahoma;
+    font-weight: bold;
+    color: #263c4b;
+    font-size: 24px;
+    position: relative;
+    top: 110px;
+    left: 400px;
+}
+
+#telefone_link {
+    font-family: Tahoma;
+    font-weight: normal;
+    color: #263c4b;
+    font-size: 24px;
+    position: relative;
+    top: 3px;
+    left: 212px;
+}
+
+
+#escrita_prime {
+    font-family: Verdana;
+    font-weight: bold;
+    color: #324755;
+    font-size: 24px;
+    position: relative;
+    top: 118px;
+    left: 425px;
+
+}
+
+#telefone_prime {
+    font-family: Verdana;
+    font-weight: normal;
+    color: #5f605f;
+    font-size: 21px;
+    position: relative;
+    top: 2px;
+    left: 218px;
+
+}
+
+#telefone_prime_rel {
+    font-family: Verdana;
+    font-weight: 400;
+    text-shadow: 0px 0.3px, 0.3px 0px, 0.3px 0.3px;
+    color: #656567;
+    font-size: 21px;
+    position: relative;
+    top: 3px;
+}
+
+#escrita_neo {
+    font-family: Gotham Book;
+    font-weight: normal;
+    color: white;
+    font-size: 32px;
+    position: relative;
+    top: 110px;
+    left: 28px;
+}
+
+#telefone_neo {
+    font-family: Gotham Book;
+    font-weight: normal;
+    color: #b4d2dd;
+    font-size: 23px;
+    position: relative;
+    top: 28px;
+    left: 350px;
+}
+
+#image_neo {
+    max-width: 1100px;
+    max-height: 1080px;
+    width: auto;
+    height: auto;
+}
+
+#image_prime {
+    max-width: 1000px;
+    max-height: 1080px;
+    width: auto;
+    height: auto;
+}
+
+#image_link {
+    max-width: 1000px;
+    max-height: 1080px;
+    width: auto;
+    height: auto;
+}
+
+#image_fit {
+    max-width: 1000px;
+    max-height: 1080px;
+    width: auto;
+    height: auto;
+}
+
+#image_euro {
+    max-width: 1000px;
+    max-height: 1080px;
+    width: auto;
+    height: auto;
+}
